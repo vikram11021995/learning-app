@@ -1,0 +1,10 @@
+[
+    {"name":"Dell", "categoty":"Laptop", "price":40000},
+    {"name":"HP", "category":"Laptop", "price": 50000},
+    {"name":"samsung", "category":"mobile", "price":20000},
+    {"name":"Iphone", "category":"mobile", "price":50000},
+    {"name":"Iphone11", "category":"mobile", "price":50000},
+    {"name":"Iphone12", "category":"mobile", "price":50000},
+    {"name":"Iphone9", "category":"mobile", "price":50000},
+    {"name":"Iphone8", "category":"mobile", "price":50000}
+]

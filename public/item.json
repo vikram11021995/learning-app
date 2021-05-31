@@ -1,0 +1,8 @@
+[
+    {"name":"Apple", "price":200, "photo":"1.jpg"},
+    {"name":"Mobile", "price":2000, "photo":"2.jpg"},
+    {"name":"Banana", "price":40, "photo":"3.jpg"},
+    {"name":"Grapes", "price":100, "photo":"4.jpg"},
+    {"name":"Laptop", "price":2900, "photo":"5.jpg"},
+    {"name":"Mouse", "price":300, "photo":"6.jpg"}
+]

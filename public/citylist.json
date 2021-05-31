@@ -1,0 +1,18 @@
+[
+    {
+        "city":"Bangalore",
+        "personlist": ["Vikram", "Abhishek", "zakker", "Angular", "React"]
+    },
+    {
+        "city":"Pune",
+        "personlist": ["Rice", "Roti", "Milk"]
+    },
+    {
+        "city":"Delhi",
+        "personlist": ["Dell", "HP", "Wipro", "Lenovo", "MI"]
+    },
+    {
+        "city":"Chennai",
+        "personlist": ["Rice", "Roti", "Milk"]
+    }
+]

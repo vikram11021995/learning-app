@@ -1,0 +1,14 @@
+[
+    {
+        "category":"Book",
+        "product": ["java", "nodejs", "php", "Angular", "React"]
+    },
+    {
+        "category":"Food",
+        "product": ["Rice", "Roti", "Milk"]
+    },
+    {
+        "category":"Laptop",
+        "product": ["Dell", "HP", "Wipro", "Lenovo", "MI"]
+    }
+]
